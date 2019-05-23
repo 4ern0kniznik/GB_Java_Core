@@ -1,5 +1,5 @@
 package Marathon.Team;
-
+///
 public class Team{
     private Competitor[] team;
 

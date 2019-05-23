@@ -15,4 +15,6 @@ public class Cross extends Obstacle {
     public void doIt(Competitor competitor) {
         competitor.run(length);
     }
+
+    ///
 }
