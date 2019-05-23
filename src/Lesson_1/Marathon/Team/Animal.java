@@ -1,6 +1,6 @@
 package Marathon.Team;
 
-
+////
 public class Animal implements Competitor {
    private String type;
    private String name;

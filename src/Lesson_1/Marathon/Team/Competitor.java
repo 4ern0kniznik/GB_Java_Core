@@ -7,3 +7,5 @@ public interface Competitor {
     boolean isOnDistance();
     void info();
 }
+
+////
